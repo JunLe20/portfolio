@@ -15,8 +15,8 @@ export default function Portfolio() {
         <div className="flex justify-center gap-6 text-sm text-slate-500">
 
           {/* EDIT: Your email address */}
-          <a href="mailto:kuohong@netizenexperience.com" className="hover:text-indigo-600 transition-colors">
-            kuohong@netizenexperience.com
+          <a href="mailto:junlechi2411@gmail.com" className="hover:text-indigo-600 transition-colors">
+            junlechi2411@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
